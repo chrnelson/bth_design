@@ -1,8 +1,8 @@
 Om den här sidan
 ==============================================
 
-Det huvudsakliga syftet med denna sida är att fungera som ett projekt under kursen *Teknisk webbdesign* vid *Blekinge tekniska högskola*.
+Det huvudsakliga syftet med denna sida är att fungera som ett projekt som utvecklas under kursen *Teknisk webbdesign* vid *Blekinge tekniska högskola*. Webbplatsens innehåll skapas av Christian Nelson.
 
-Sidan är gjord med hjälp av ramverket Anax Flat. Källkoden för Anax Flat finns på GitHub [canax/anax-flat](git@github.com:canax/anax-flat.git).
+Ifall du vill kolla in hur koden till denna sida ser ut är du välkommen att besöka sidans [GitHub-repo](https://github.com/chrnelson/bth_design)
 
-Webbplatsen är gjord av Christian Nelson.
+![bild av programmerare](img/programmer.png)

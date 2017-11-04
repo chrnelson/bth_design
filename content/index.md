@@ -1,5 +1,5 @@
 ---
-titleBreadcrumb: Home
+titleBreadcrumb: Start
 ...
 Christians me-sida
 ===============================
@@ -12,7 +12,7 @@ Den här sidan är en del av mitt deltagande i kursen *Teknisk design* vid *Blek
 
 Den här sidan är gjord med ramverket Anax Flat. Jag har inte tidigare jobbat med ramverk så nu är allt nytt och spännande!
 
-Det är kul att lära sig mer om webbprogrammering!
+Det är kul att lära sig mer om webbprogrammering! Ifall du är intresserad är du välkommen att följa min resa genom denna kurs.
 
 
 
