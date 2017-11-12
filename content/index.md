@@ -4,7 +4,7 @@ titleBreadcrumb: Start
 Christians me-sida
 ===============================
 
-<img src="img/me2.jpg" alt="Bild på mig" style="float:right;width:40%;margin:20px;">
+<img src="img/me2.jpg" class="main-image" alt="Bild på mig">
 
 Hej och välkommen till min me-sida.
 
