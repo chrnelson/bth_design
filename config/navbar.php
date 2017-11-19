@@ -27,6 +27,18 @@ return [
                 "title" => t("Testsida")
             ],
 
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography?hgrid"),
+                "title" => t("Typography")
+            ],
+
             "about" => [
                 "text"  => t("Om sidan"),
                 "url"   => $this->di->get("url")->create("about"),
@@ -63,6 +75,18 @@ return [
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testsida"),
                 "mark-if-parent" => true,
+            ],
+
+            "grid" => [
+                "text"  => t("Grid"),
+                "url"   => $this->di->get("url")->create("grid?vgrid"),
+                "title" => t("Grid")
+            ],
+
+            "typography" => [
+                "text"  => t("Typografi"),
+                "url"   => $this->di->get("url")->create("typography?hgrid"),
+                "title" => t("Typography")
             ],
 
             "about" => [
