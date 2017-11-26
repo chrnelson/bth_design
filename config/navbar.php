@@ -21,11 +21,20 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Design related analysis"),
+                "mark-if-parent" => true,
+            ],
+
+            /*
             "test" => [
                 "text"  => t("Testsida"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testsida")
             ],
+            */
 
             "grid" => [
                 "text"  => t("Grid"),
@@ -37,6 +46,18 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography?hgrid"),
                 "title" => t("Typography")
+            ],
+
+            "theme" => [
+                "text"  => t("Temata"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Temata")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Temaväljare")
             ],
 
             "about" => [
@@ -70,12 +91,20 @@ return [
                 "mark-if-parent" => true,
             ],
 
+            "analysis" => [
+                "text"  => t("Analys"),
+                "url"   => $this->di->get("url")->create("analysis"),
+                "title" => t("Design related analysis"),
+                "mark-if-parent" => true,
+            ],
+
+            /*
             "test" => [
                 "text"  => t("Testsida"),
                 "url"   => $this->di->get("url")->create("test"),
                 "title" => t("Testsida"),
-                "mark-if-parent" => true,
             ],
+            */
 
             "grid" => [
                 "text"  => t("Grid"),
@@ -87,6 +116,18 @@ return [
                 "text"  => t("Typografi"),
                 "url"   => $this->di->get("url")->create("typography?hgrid"),
                 "title" => t("Typography")
+            ],
+
+            "theme" => [
+                "text"  => t("Temata"),
+                "url"   => $this->di->get("url")->create("theme"),
+                "title" => t("Temata")
+            ],
+
+            "theme-selector" => [
+                "text"  => t("Temaväljare"),
+                "url"   => $this->di->get("url")->create("theme-selector"),
+                "title" => t("Temaväljare")
             ],
 
             "about" => [
