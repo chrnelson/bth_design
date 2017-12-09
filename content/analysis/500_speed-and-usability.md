@@ -68,7 +68,7 @@ SAS
 
 [SAS svenska webbplats](https://www.sas.se)
 
-[FIGURE src="image/SAS.jpeg" class="center" alt="Skärmdump av SAS:s webbsida (första sidan)"]
+[FIGURE src="image/sas.jpeg" class="center" alt="Skärmdump av SAS:s webbsida (första sidan)"]
 
 Resultat i medeltal:
 
