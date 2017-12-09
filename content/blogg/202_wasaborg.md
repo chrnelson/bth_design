@@ -8,12 +8,12 @@ category:
 Vasabyggnad 2 - Wasaborg
 ==================================
 
-[FIGURE src="image/hus/wasaborg.jpg" caption="Wasaborg" class="center w50"]
+[FIGURE src="image/hus/wasaborg.jpg?w=c14" caption="Wasaborg" class="center w50"]
 
 Bilden har tagits med en Nikon Coolpix S3500. Jag använde mig av kamerans automatiska inställningar. Detta resulterade i ISO 80, slutartid 1/80 och bländarvärde f/3,4.
 
 
-[FIGURE src="image/hus/wasaborg.jpg&crop-to-fit&area=12,10,20,15" caption="bilden beskuren på alla kanter" class="center w50"]
+[FIGURE src="image/hus/wasaborg.jpg&w=c14&crop-to-fit&area=12,10,20,15" caption="bilden beskuren på alla kanter" class="center w50"]
 
 [FIGURE src="image/hus/wasaborg.jpg?w=150&h=150&crop-to-fit" caption="bredd och höjd 150px, automatisk beskärning, vänstercentrering" class="left"]
 

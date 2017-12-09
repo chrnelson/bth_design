@@ -9,7 +9,7 @@ På denna sida visas en del bilder i olika storlekar och format. Detta görs som
 
 [FIGURE src="image/sommar/tritonia_gass.jpg?w=400&crop-to-fit&area=40,50,30,0" caption="Gäss på Vasa universitets campus, utanför Tritonia"]
 
-[FIGURE src="image/sommar/svedjehamn.jpg" caption="Utsikt över världsarvet Kvarken vid Svedjehamn, Korsholm"]
+[FIGURE src="image/sommar/svedjehamn.jpg?w=c24" caption="Utsikt över världsarvet Kvarken vid Svedjehamn, Korsholm"]
 
 [FIGURE src="image/sommar/christian.jpg?h=200" caption="En av få selfies"]
 

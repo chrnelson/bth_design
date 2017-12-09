@@ -8,7 +8,7 @@ category:
 Vasabyggnad 1 - Kurtenia
 ==================================
 
-[FIGURE src="image/hus/kurtenia.jpg" caption="Kurtenia - ingen fastställd bildstorlek" class="center w50"]
+[FIGURE src="image/hus/kurtenia.jpg?w=c14" caption="Kurtenia - ingen fastställd bildstorlek" class="center w50"]
 
 Bilden har tagits med kompaktkameran Nikon Coolpix S3500. Jag använde mig av kamerans automatiska inställningar. Detta resulterade i ISO 80, slutartid 1/50 och bländarvärde f/3,4.
 
