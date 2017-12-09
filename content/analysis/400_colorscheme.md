@@ -11,7 +11,7 @@ Finnair
 
 Den första webbplatsen som jag valde att analysera var flygbolaget Finnairs webbplats. Företaget har en visuellt lätt sida där vissa utvalda strama färger ger en fin kontrast till den vita bakgrunden som ger sidan ett luftigt intryck.
 
-[FIGURE src="image/finnair.jpeg" class="center" alt="Skärmdump av Finnairs webbsida (första sidan)"]
+[FIGURE src="image/finnair.jpeg?w=c14" class="center" alt="Skärmdump av Finnairs webbsida (första sidan)"]
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tbody><tr>
@@ -37,7 +37,7 @@ Adlibris
 
 Den andra webbplatsen som jag analyserade var nätbokhandeln Adlibris sidor. Jag använder sidorna ofta och tycker att de är välfungerande, även om designen för mig är ganska neutral, varken särdeles positiv eller negativ.
 
-[FIGURE src="image/adlibris.jpeg" class="center" alt="Skärmdump av Adlibris webbsida (första sidan)"]
+[FIGURE src="image/adlibris.jpeg?w=c14" class="center" alt="Skärmdump av Adlibris webbsida (första sidan)"]
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tbody><tr>
@@ -72,7 +72,7 @@ Apollo
 
 Slutligen valde jag att analysera researrangören Apollos webbsidor. Det är lätt att förstå att Apollos färgval skall signalera semester, lugn och ledighet, vilket man också lyckas med. Färgerna på webbsidans olika element fungerar dessutom perfekt tillsammans med de hav- och strandfotografier som finns på sidan.
 
-[FIGURE src="image/apollo.jpeg" class="center" alt="Skärmdump av Apollos webbsida (första sidan)"]
+[FIGURE src="image/apollo.jpeg?w=c14" class="center" alt="Skärmdump av Apollos webbsida (första sidan)"]
 
 <table style="border-spacing: 4px; border-collapse: separate">
 <tbody><tr>

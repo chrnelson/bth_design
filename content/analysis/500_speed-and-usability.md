@@ -30,7 +30,7 @@ SJ
 
 [SJ:s webbplats](https://www.sj.se)
 
-[FIGURE src="image/sj.jpeg" class="center" alt="Skärmdump av SJ:s webbsida (första sidan)"]
+[FIGURE src="image/sj.jpeg?w=c14" class="center" alt="Skärmdump av SJ:s webbsida (första sidan)"]
 
 Resultat i medeltal:
 
@@ -48,7 +48,7 @@ VR
 
 [VR:s webbplats](https://www.vr.fi/cs/vr/sv/etusivu_sv)
 
-[FIGURE src="image/vr.jpeg" class="center" alt="Skärmdump av VR:s webbsida (första sidan)"]
+[FIGURE src="image/vr.jpeg?w=c14" class="center" alt="Skärmdump av VR:s webbsida (första sidan)"]
 
 Resultat i medeltal:
 
@@ -68,7 +68,7 @@ SAS
 
 [SAS svenska webbplats](https://www.sas.se)
 
-[FIGURE src="image/sas.jpeg" class="center" alt="Skärmdump av SAS:s webbsida (första sidan)"]
+[FIGURE src="image/sas.jpeg?w=c14" class="center" alt="Skärmdump av SAS:s webbsida (första sidan)"]
 
 Resultat i medeltal:
 
