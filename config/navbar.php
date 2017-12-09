@@ -49,7 +49,7 @@ return [
             ],
 
             "theme" => [
-                "text"  => t("Temata"),
+                "text"  => t("Tema"),
                 "url"   => $this->di->get("url")->create("theme"),
                 "title" => t("Temata")
             ],
@@ -60,8 +60,22 @@ return [
                 "title" => t("Temaväljare")
             ],
 
+            "images" => [
+                "text"  => t("Bild"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bild")
+            ],
+
+
+            "blog" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+
+
             "about" => [
-                "text"  => t("Om sidan"),
+                "text"  => t("Om"),
                 "url"   => $this->di->get("url")->create("about"),
                 "title" => t("About this website")
             ],
@@ -130,10 +144,22 @@ return [
                 "title" => t("Temaväljare")
             ],
 
+            "images" => [
+                "text"  => t("Bild"),
+                "url"   => $this->di->get("url")->create("images"),
+                "title" => t("Bild")
+            ],
+
+            "blogg" => [
+                "text"  => t("Blogg"),
+                "url"   => $this->di->get("url")->create("blogg"),
+                "title" => t("Blogg")
+            ],
+
             "about" => [
                 "text"  => t("Om sidan"),
                 "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+                "title" => t("Om sidan")
             ],
         ],
     ],

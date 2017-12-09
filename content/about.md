@@ -9,5 +9,4 @@ Ifall du vill kolla in hur koden till denna sida ser ut är du välkommen att be
 
 [GitHub-repo för temat (Anax Flat Theme)](https://github.com/chrnelson/anax-flat-theme)
 
-
-![bild av programmerare](img/programmer.png)
+[FIGURE src="image/programmer.png" class="center" alt="Bild av programmerare med kod i bakgrunden"]

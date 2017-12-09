@@ -55,7 +55,7 @@ return [
             "template" => "default/header",
             "data" => [
                 "homeLink"      => "",
-                "siteLogoText"  => "Christians Anax Flat-sida",
+                "siteLogoText"  => "Christians Anaxsida",
                 "siteLogoTextIcon" => "img/favicon/favicon_40x40.png",
                 "siteLogoTextIconAlt" => "Small logo",
                 "siteLogo"      => null, //"img/anax.png",
