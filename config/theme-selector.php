@@ -59,6 +59,40 @@ return [
             "stylesheets" => ["css/typography.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One"]
         ],
 
+        "separator2" => "------------------------------------------------",
+
+        "bgphoto"       => [
+            "title"      => "Stort bakgrundsfoto och full bredd (kmom06/designelement)",
+            "class"      => "bgimage",
+            "stylesheets" => ["css/bgphoto.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One"]
+        ],
+
+        "texture"       => [
+            "title"      => "Bakgrundsmönster (textur) och tydliga linjer (kmom06/designelement)",
+            "class"      => "texture",
+            "stylesheets" => ["css/texture.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One"]
+        ],
+
+        "bgcolours"       => [
+            "title"      => "Bakgrundsfärger med toning och centrerat innehåll (kmom06/designelement)",
+            "class"      => "bgcolours",
+            "stylesheets" => ["css/bgcolours.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One"]
+        ],
+
+        "separator3" => "------------------------------------------------",
+
+        "contrast"       => [
+            "title"      => "Kontraster och betoning (kmom06/designprinciper)",
+            "class"      => "contrast",
+            "stylesheets" => ["css/contrast.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One"]
+        ],
+
+        "movement"       => [
+            "title"      => "Rörelse, harmoni och betoning (kmom06/designprinciper)",
+            "class"      => "movement",
+            "stylesheets" => ["css/movement.min.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", "https://fonts.googleapis.com/css?family=Cambay|Hammersmith+One"]
+        ],
+
         /*
         "separator2" => "------------------------------------------------",
 
@@ -68,5 +102,7 @@ return [
             "stylesheets" => []
         ],
         */
+
     ]
+
 ];

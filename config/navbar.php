@@ -28,30 +28,35 @@ return [
                 "mark-if-parent" => true,
             ],
 
-            /*
-            "test" => [
-                "text"  => t("Testsida"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testsida")
-            ],
-            */
+            "themes" => [
+                "text"  => t("Temata"),
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("Temata"),
 
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid?vgrid"),
-                "title" => t("Grid")
-            ],
+                "submenu" => [
 
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography?hgrid"),
-                "title" => t("Typography")
-            ],
+                    "items" => [
 
-            "theme" => [
-                "text"  => t("Tema"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Temata")
+                        "theme" => [
+                            "text"  => t("Färgtemata"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("Färgemata"),
+                        ],
+
+                        "design-element" => [
+                            "text"  => t("Designelement"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("Designelement")
+                        ],
+
+                        "design-principle" => [
+                            "text"  => t("Designprinciper"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("Designprinciper")
+                        ],
+                    ],
+
+                ],
             ],
 
             "theme-selector" => [
@@ -60,13 +65,6 @@ return [
                 "title" => t("Temaväljare")
             ],
 
-            "images" => [
-                "text"  => t("Bild"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Bild")
-            ],
-
-
             "blog" => [
                 "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
@@ -74,14 +72,52 @@ return [
             ],
 
 
-            "about" => [
-                "text"  => t("Om"),
-                "url"   => $this->di->get("url")->create("about"),
-                "title" => t("About this website")
+            "test" => [
+                "text"  => t("Testsidor"),
+                "url"   => $this->di->get("url")->create("test"),
+                "title" => t("Testsidor"),
+
+                "submenu" => [
+
+                    "items" => [
+
+                        "test_markdown" => [
+                            "text"  => t("Markdown-test"),
+                            "url"   => $this->di->get("url")->create("test_markdown"),
+                            "title" => t("Markdown-test")
+                        ],
+
+                        "grid" => [
+                            "text"  => t("Grid"),
+                            "url"   => $this->di->get("url")->create("grid?vgrid"),
+                            "title" => t("Grid")
+                        ],
+
+                        "typography" => [
+                            "text"  => t("Typografi"),
+                            "url"   => $this->di->get("url")->create("typography?hgrid"),
+                            "title" => t("Typography")
+                        ],
+
+                        "images" => [
+                            "text"  => t("Bild"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Bild")
+                        ],
+
+                    ],
+
+                ],
             ],
 
+            "about2" => [
+                "text"  => t("Om"),
+                "url"   => $this->di->get("url")->create("about"),
+                "title" => t("About this website"),
+            ],
 
         ],
+
     ],
 
 
@@ -112,30 +148,35 @@ return [
                 "mark-if-parent" => true,
             ],
 
-            /*
-            "test" => [
-                "text"  => t("Testsida"),
-                "url"   => $this->di->get("url")->create("test"),
-                "title" => t("Testsida"),
-            ],
-            */
-
-            "grid" => [
-                "text"  => t("Grid"),
-                "url"   => $this->di->get("url")->create("grid?vgrid"),
-                "title" => t("Grid")
-            ],
-
-            "typography" => [
-                "text"  => t("Typografi"),
-                "url"   => $this->di->get("url")->create("typography?hgrid"),
-                "title" => t("Typography")
-            ],
-
-            "theme" => [
+            "themes" => [
                 "text"  => t("Temata"),
-                "url"   => $this->di->get("url")->create("theme"),
-                "title" => t("Temata")
+                "url"   => $this->di->get("url")->create("themes"),
+                "title" => t("Temata"),
+
+                "submenu" => [
+
+                    "items" => [
+
+                        "theme" => [
+                            "text"  => t("Färgtemata"),
+                            "url"   => $this->di->get("url")->create("theme"),
+                            "title" => t("Färgemata"),
+                        ],
+
+                        "design-element" => [
+                            "text"  => t("Designelement"),
+                            "url"   => $this->di->get("url")->create("design-element"),
+                            "title" => t("Designelement")
+                        ],
+
+                        "design-principle" => [
+                            "text"  => t("Designprinciper"),
+                            "url"   => $this->di->get("url")->create("design-principle"),
+                            "title" => t("Designprinciper")
+                        ],
+                    ],
+
+                ],
             ],
 
             "theme-selector" => [
@@ -144,16 +185,48 @@ return [
                 "title" => t("Temaväljare")
             ],
 
-            "images" => [
-                "text"  => t("Bild"),
-                "url"   => $this->di->get("url")->create("images"),
-                "title" => t("Bild")
-            ],
-
             "blogg" => [
                 "text"  => t("Blogg"),
                 "url"   => $this->di->get("url")->create("blogg"),
                 "title" => t("Blogg")
+            ],
+
+            "test" => [
+                "text"  => t("Testsidor"),
+                "url"   => $this->di->get("url")->create("test"),
+                "title" => t("Testsidor"),
+
+                "submenu" => [
+
+                    "items" => [
+
+                        "test_markdown" => [
+                            "text"  => t("Markdown-test"),
+                            "url"   => $this->di->get("url")->create("test_markdown"),
+                            "title" => t("Markdown-test")
+                        ],
+
+                        "grid" => [
+                            "text"  => t("Grid"),
+                            "url"   => $this->di->get("url")->create("grid?vgrid"),
+                            "title" => t("Grid")
+                        ],
+
+                        "typography" => [
+                            "text"  => t("Typografi"),
+                            "url"   => $this->di->get("url")->create("typography?hgrid"),
+                            "title" => t("Typography")
+                        ],
+
+                        "images" => [
+                            "text"  => t("Bild"),
+                            "url"   => $this->di->get("url")->create("images"),
+                            "title" => t("Bild")
+                        ],
+
+                    ],
+
+                ],
             ],
 
             "about" => [
